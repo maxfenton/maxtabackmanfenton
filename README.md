@@ -12,4 +12,5 @@ maxtabackmanfenton
 
 + (Probably as a project unto itself, for which help will also be welcomed.)
 
-* cit: http://www.exquisitetweets.com/collection/maxfenton/1527 *
+---
+cit: http://www.exquisitetweets.com/collection/maxfenton/1527
