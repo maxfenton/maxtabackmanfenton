@@ -12,5 +12,8 @@ maxtabackmanfenton
 
 *(Probably as a project unto itself, for which help will also be welcomed.)*
 
+20120825-initial commit to [open list on Workflowy](https://workflowy.com/shared/448cf138-a0bd-f85b-6b12-5f8cc86587a0/).
+
+
 --- 
 cit: http://www.exquisitetweets.com/collection/maxfenton/1527
