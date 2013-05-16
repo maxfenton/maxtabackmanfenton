@@ -14,6 +14,8 @@ maxtabackmanfenton
 
 ---
 
+20130516–trying to retain an open creative spirit about this, balanced with a responsibility not to share client information. Trying to include all *my* projects.
+
 20120825-initial commit to [open list on Workflowy](https://workflowy.com/shared/448cf138-a0bd-f85b-6b12-5f8cc86587a0/).
 
 20121218-continued updates to list above; exceptions for current NDAs 
